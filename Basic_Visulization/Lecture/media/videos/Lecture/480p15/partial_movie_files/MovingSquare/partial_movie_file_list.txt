@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Video animation using coding/Basic_Visulization/Lecture/media/videos/Lecture/480p15/partial_movie_files/MovingSquare/1185818338_1707284486_223132457.mp4'
+file 'file:D:/Video animation using coding/Basic_Visulization/Lecture/media/videos/Lecture/480p15/partial_movie_files/MovingSquare/624642324_484330588_548235735.mp4'
+file 'file:D:/Video animation using coding/Basic_Visulization/Lecture/media/videos/Lecture/480p15/partial_movie_files/MovingSquare/624642324_2618046312_548235735.mp4'
+file 'file:D:/Video animation using coding/Basic_Visulization/Lecture/media/videos/Lecture/480p15/partial_movie_files/MovingSquare/624642324_1935607454_2358810818.mp4'
